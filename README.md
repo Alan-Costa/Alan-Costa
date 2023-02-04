@@ -1,7 +1,7 @@
 ### Hi I'm Alan Costa👋
 
 
-- ⚙ I’m currently learning Java, SpringBoot, Angular and React
+- ⚙ I’m currently working and learning: Java, SpringBoot, Angular and React
 - 💬 Ask me about web development and sports health care (Yes, you can ask)
 - ⚡ What amuses me: family, music, travel, food, anime
 
